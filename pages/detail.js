@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 
-const Home = () => (
+const Detail = () => (
   <div className="container">
     <Head>
       <title>Detail</title>
@@ -126,4 +126,4 @@ const Home = () => (
   </div>
 )
 
-export default Home
+export default Detail
